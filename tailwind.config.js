@@ -6,11 +6,11 @@ module.exports = {
             'primary-2': '#4F61CC',
             'primary-dark': '#080D26',
             'neutral': '#C9CED4',
-            'orange': '#ff7849',
+            'orange': '#F7A31C',
             'green': '#13ce66',
             'yellow': '#ffc82c',
             'white': '#FFFF',
-            'gray': '#8492a6',
+            'gray': '#D4D9F2',
             'gray-light': '#d3dce6',
         },
         fontFamily: {
